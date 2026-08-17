@@ -1,0 +1,246 @@
+{
+  "animatedEnabled": true,
+  "sections": [
+    {
+      "title": "Animated",
+      "items": [
+        {
+          "id": "animated_1",
+          "type": "video",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/animated_1.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_1.mp4",
+          "posterUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_1_poster.webp",
+          "enabled": true
+        },
+        {
+          "id": "animated_2",
+          "type": "video",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/animated_2.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_2.mp4",
+          "posterUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_2_poster.webp",
+          "enabled": true
+        },
+        {
+          "id": "animated_3",
+          "type": "video",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/animated_3.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_3.mp4",
+          "posterUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_3_poster.webp",
+          "enabled": true
+        },
+        {
+          "id": "animated_4",
+          "type": "video",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/animated_4.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_4.mp4",
+          "posterUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_4_poster.webp",
+          "enabled": true
+        },
+        {
+          "id": "animated_5",
+          "type": "video",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/animated_5.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_5.mp4",
+          "posterUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/animated_5_poster.webp",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "title": "Mixed",
+      "items": [
+        {
+          "id": "mixed_1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_1.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_1.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_2.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_2.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_3.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_3.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_4.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_4.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_8.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_8.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_9",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_9.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_9.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_10",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_10.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_10.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_11",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_11.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_11.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_12.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_12.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_13",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_13.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_13.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_14",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_14.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_14.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_15",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_15.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_15.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_16",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_16.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_16.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_17",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_17.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_17.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_18",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_18.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_18.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_19",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_19.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_19.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_20",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_20.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_20.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_21",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_21.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_21.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_22",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_22.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_22.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_23",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_23.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_23.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_24",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_24.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_24.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_25",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_25.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_25.webp",
+          "enabled": true
+        },
+        {
+          "id": "mixed_26",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/mixed_26.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/mixed_26.webp",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "title": "Dark",
+      "items": [
+        {
+          "id": "dark_1",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_1.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_1.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_2",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_2.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_2.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_3",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_3.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_3.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_4",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_4.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_4.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_5",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_5.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_5.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_6",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_6.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_6.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_8",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_8.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_8.webp",
+          "enabled": true
+        },
+        {
+          "id": "dark_12",
+          "thumbnailUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/thumb/dark_12.webp",
+          "imageUrl": "https://cdn.jsdelivr.net/gh/androbet/static-cdn@v6/full/dark_12.webp",
+          "enabled": true
+        }
+      ]
+    }
+  ]
+}
